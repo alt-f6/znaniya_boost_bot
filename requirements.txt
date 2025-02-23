@@ -1,0 +1,7 @@
+aiogram>=3.0
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite  # для работы с SQLite (для разработки)
+python-dotenv
+asyncpg
